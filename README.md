@@ -31,4 +31,4 @@ node chrome-automation
 
 ## Built With
 
-* [Puppeteer](https://github.com/puppeteer/puppeteer) - The web framework used
+* [Puppeteer](https://github.com/puppeteer/puppeteer)
